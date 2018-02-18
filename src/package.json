@@ -1,0 +1,16 @@
+{
+  "name": "React Router 4 with React Transition Group Plus",
+  "version": "1.0.0",
+  "description": "An example of React Router copied from https://reacttraining.com/react-router/web/guides/quick-start.\n\nNote: transition modes won't work because each Route has a separate TransitionGroup so they can't coordinate...need to figure out something else.",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/pkzjwx045j",
+  "main": "index.js",
+  "dependencies": {
+    "react-transition-group-plus": "0.5.0-alpha.1",
+    "react-router-dom": "4.1.2",
+    "react-router": "4.1.2",
+    "react-dom": "15.5.3",
+    "react": "15.5.3",
+    "gsap": "1.20.2"
+  }
+}
